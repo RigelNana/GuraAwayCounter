@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9cYbHLxkaZ3FeeAtcJ9P1w2NOi5g/i/34A3zPN0GjI++8+tsS/GGKW4cUBidAKsoBbkqQwZaid4BPPsRyxpgA==",
+  "success": true,
+  "projectFilePath": "D:\\CppTest\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
